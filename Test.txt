@@ -1,1 +1,1 @@
-Test commit from CDN
+Test commit from CDN 2
